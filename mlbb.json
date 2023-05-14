@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://apinyaihsan.cloud/apiv1/game",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"apikey\": \"api_xcascascasc\",\"user_id\": \"12345678\",\"user_server\": \"1234\",}"
+  }
+}
