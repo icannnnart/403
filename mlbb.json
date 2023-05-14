@@ -8,6 +8,11 @@
   ],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"apikey\": \"api_xcascascasc\",\"user_id\": \"12345678\",\"user_server\": \"1234\",}"
+    "text": "[
+      { "apikey": "apikey_abcd1234567890"},
+      { "user_id": "12345678"},
+      { "user_server": "1234"}
+    
+    ]"
   }
 }
