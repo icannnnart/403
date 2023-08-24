@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://apinyaihsan.cloud/api/gopay/GetOTP.php?nope=85155xxxxxx",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ]
+}
