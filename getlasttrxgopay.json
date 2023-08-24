@@ -1,0 +1,13 @@
+{
+  "method": "POST",
+  "url": "https://apinyaihsan.cloud/api/gopay/GetLastTrx.php",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"token\": \"eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJhdWQiOlsiZ29wYXkiXSwiZGF0Ijp7ImFjdGl2ZSI6InRydWUiLCJixxxxxxxxxx\",}"
+  }
+}
