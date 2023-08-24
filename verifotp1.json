@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://apinyaihsan.cloud/api/gopay/VerifOTP.php?otp=0000&token_otp=bc1df682-e012-4cdc-9d1f-1ae566f2656b",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ]
+}
